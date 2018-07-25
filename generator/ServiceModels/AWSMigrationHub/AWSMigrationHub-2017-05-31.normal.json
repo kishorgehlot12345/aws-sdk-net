@@ -72,7 +72,7 @@
       "name":"DeleteProgressUpdateStream",
       "http":{
         "method":"POST",
-        "requestUri":"/"
+        "requestUri":"//"
       },
       "input":{"shape":"DeleteProgressUpdateStreamRequest"},
       "output":{"shape":"DeleteProgressUpdateStreamResult"},
